@@ -19,6 +19,9 @@ yarn add @react-navigation/native-stack
 # Configurando navegação
 - Dentro de src, criamos o arquivo routes.tsx
 - Configuramos o arquivo de routes.tsx e depois colocamos para ser executado no arquivo principal, app.tsx.
-- Modifiquei o Types do React para não apresentar erros, versão @types/react -> ^18.0.9"
+- Modifiquei o Types do React para não apresentar erros, versão @types/react -> ^18.0.9", porem tenho que ver uma forma do React Native exigir a versão antiga para funcionar com typescript.
+- Criamos as paginas da aplicação e suas respectivas rotas
 
+# Desenvolvendo o Header
+- 40:00
 
